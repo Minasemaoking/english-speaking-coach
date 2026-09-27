@@ -1,0 +1,44 @@
+[
+  {
+    "id": "present-simple-habits",
+    "title": "現在簡單式 · 日常習慣",
+    "grammar": "第三人稱單數加 s：I go → She goes",
+    "q": "What does she do every day?",
+    "qZh": "她每天做什麼？",
+    "answer": "She goes to work every day.",
+    "cards": [
+      { "en": "goes to work", "ipa": "/ɡoʊz tuː wɝːk/", "zh": "去上班" },
+      { "en": "drinks coffee", "ipa": "/drɪŋks ˈkɑːfi/", "zh": "喝咖啡" },
+      { "en": "watches TV", "ipa": "/ˈwɑːtʃɪz ˌtiːˈviː/", "zh": "看電視" },
+      { "en": "every day", "ipa": "/ˈevri deɪ/", "zh": "每天" }
+    ]
+  },
+  {
+    "id": "past-simple-yesterday",
+    "title": "過去式 · 昨天做了什麼",
+    "grammar": "過去式：go → went，watch → watched",
+    "q": "What did you do yesterday?",
+    "qZh": "你昨天做了什麼？",
+    "answer": "I watched a movie yesterday.",
+    "cards": [
+      { "en": "yesterday", "ipa": "/ˈjes.tɚ.deɪ/", "zh": "昨天" },
+      { "en": "went shopping", "ipa": "/went ˈʃɑː.pɪŋ/", "zh": "去購物" },
+      { "en": "watched a movie", "ipa": "/wɑːtʃt ə ˈmuː.vi/", "zh": "看電影" },
+      { "en": "stayed home", "ipa": "/steɪd hoʊm/", "zh": "待在家" }
+    ]
+  },
+  {
+    "id": "present-continuous-now",
+    "title": "現在進行式 · 正在做什麼",
+    "grammar": "be + V-ing：I am eating",
+    "q": "What are you doing now?",
+    "qZh": "你現在在做什麼？",
+    "answer": "I am cooking dinner now.",
+    "cards": [
+      { "en": "cooking dinner", "ipa": "/ˈkʊkɪŋ ˈdɪnɚ/", "zh": "煮晚餐" },
+      { "en": "reading a book", "ipa": "/ˈriːdɪŋ ə bʊk/", "zh": "看書" },
+      { "en": "taking a walk", "ipa": "/ˈteɪkɪŋ ə wɑːk/", "zh": "散步" },
+      { "en": "right now", "ipa": "/raɪt naʊ/", "zh": "現在" }
+    ]
+  }
+]
