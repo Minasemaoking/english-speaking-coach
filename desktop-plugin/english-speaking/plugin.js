@@ -4,7 +4,7 @@
  * Tabs: 自編文法課 / VOA 跟讀 (fetched from GitHub, cached) / 情境對話
  */
 
-import { host, Tip, usePluginI18n } from '@hermes/plugin-sdk'
+import { host, Tip, usePluginI18n, ROUTES_AREA, SIDEBAR_NAV_AREA, PALETTE_AREA } from '@hermes/plugin-sdk'
 import { useEffect, useState } from 'react'
 import { jsx, jsxs } from 'react/jsx-runtime'
 
@@ -401,6 +401,29 @@ export default {
   id: ID,
   name: 'English Speaking',
   register(ctx) {
+    ctx.registerMany([
+      {
+        id: 'practice-page',
+        area: ROUTES_AREA,
+        data: { path: '/english-speaking' },
+        render: () => jsx(PracticePane, {}),
+      },
+      {
+        id: 'practice-nav',
+        area: SIDEBAR_NAV_AREA,
+        data: { path: '/english-speaking', label: '英文口說練習', codicon: 'book' },
+      },
+      {
+        id: 'open-practice',
+        area: PALETTE_AREA,
+        data: {
+          id: 'english-speaking.open',
+          label: '開啟英文口說練習',
+          keywords: ['English', 'Speaking', 'Coach', '英文', '口說'],
+          run: () => host.navigate('/english-speaking'),
+        },
+      },
+    ])
     ctx.i18n.register({
       en: {
         copied: 'Prompt copied — paste it in chat, then answer by voice!',
