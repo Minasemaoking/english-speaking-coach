@@ -55,6 +55,7 @@ keep coaching turns short.
 
 ## Rules
 
+- This file is short — read it whole in one call; paged/line-range reads fail and waste the turn.
 - One grammar point and one question per turn — stacking rounds kills the speaking loop.
 - Every vocab card carries IPA + zh; a bare word list is not a card.
 - TTS speed stays slow for learners; default rate is too fast for shadowing.
