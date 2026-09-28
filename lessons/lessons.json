@@ -1,6 +1,22 @@
 [
   {
-    "id": "present-simple-habits",
+    "id": "a1-be-intro",
+    "level": "A1",
+    "title": "be 動詞 · 自我介紹",
+    "grammar": "I am / You are / He-She-It is：I am a student.",
+    "q": "Who are you? Tell me about yourself.",
+    "qZh": "你是誰？介紹一下自己。",
+    "answer": "I am Timothy. I am a student from Taiwan.",
+    "cards": [
+      { "en": "I am ...", "ipa": "/aɪ æm/", "zh": "我是…" },
+      { "en": "from Taiwan", "ipa": "/frʌm ˌtaɪˈwɑːn/", "zh": "來自台灣" },
+      { "en": "a student", "ipa": "/ə ˈstuːdənt/", "zh": "學生" },
+      { "en": "years old", "ipa": "/jɪrz oʊld/", "zh": "…歲" }
+    ]
+  },
+  {
+    "id": "a1-present-habits",
+    "level": "A1",
     "title": "現在簡單式 · 日常習慣",
     "grammar": "第三人稱單數加 s：I go → She goes",
     "q": "What does she do every day?",
@@ -14,7 +30,23 @@
     ]
   },
   {
-    "id": "past-simple-yesterday",
+    "id": "a1-have-like",
+    "level": "A1",
+    "title": "have / like · 喜好擁有",
+    "grammar": "I have / She has；like + V-ing：I like reading.",
+    "q": "What do you like to do on weekends?",
+    "qZh": "你週末喜歡做什麼？",
+    "answer": "I like reading books on weekends.",
+    "cards": [
+      { "en": "like reading", "ipa": "/laɪk ˈriːdɪŋ/", "zh": "喜歡看書" },
+      { "en": "on weekends", "ipa": "/ɑːn ˈwiːkˌendz/", "zh": "在週末" },
+      { "en": "play basketball", "ipa": "/pleɪ ˈbæskətˌbɔːl/", "zh": "打籃球" },
+      { "en": "with friends", "ipa": "/wɪð frendz/", "zh": "跟朋友" }
+    ]
+  },
+  {
+    "id": "a1-past-yesterday",
+    "level": "A1",
     "title": "過去式 · 昨天做了什麼",
     "grammar": "過去式：go → went，watch → watched",
     "q": "What did you do yesterday?",
@@ -28,7 +60,23 @@
     ]
   },
   {
-    "id": "present-continuous-now",
+    "id": "a1-can-ability",
+    "level": "A1",
+    "title": "can · 能力",
+    "grammar": "can + 原形：I can swim. 否定 can't",
+    "q": "What can you do?",
+    "qZh": "你會做什麼？",
+    "answer": "I can cook noodles, but I can't bake bread.",
+    "cards": [
+      { "en": "can swim", "ipa": "/kæn swɪm/", "zh": "會游泳" },
+      { "en": "cook noodles", "ipa": "/kʊk ˈnuːdəlz/", "zh": "煮麵" },
+      { "en": "speak English", "ipa": "/spiːk ˈɪŋɡlɪʃ/", "zh": "說英文" },
+      { "en": "can't ...", "ipa": "/kænt/", "zh": "不會…" }
+    ]
+  },
+  {
+    "id": "a2-continuous-now",
+    "level": "A2",
     "title": "現在進行式 · 正在做什麼",
     "grammar": "be + V-ing：I am eating",
     "q": "What are you doing now?",
@@ -39,6 +87,96 @@
       { "en": "reading a book", "ipa": "/ˈriːdɪŋ ə bʊk/", "zh": "看書" },
       { "en": "taking a walk", "ipa": "/ˈteɪkɪŋ ə wɑːk/", "zh": "散步" },
       { "en": "right now", "ipa": "/raɪt naʊ/", "zh": "現在" }
+    ]
+  },
+  {
+    "id": "a2-going-to",
+    "level": "A2",
+    "title": "未來計畫 · be going to",
+    "grammar": "be going to + 原形：I am going to travel.",
+    "q": "What are you going to do this weekend?",
+    "qZh": "這週末你打算做什麼？",
+    "answer": "I am going to visit my grandma this weekend.",
+    "cards": [
+      { "en": "going to visit", "ipa": "/ˈɡoʊɪŋ tuː ˈvɪzɪt/", "zh": "打算去拜訪" },
+      { "en": "this weekend", "ipa": "/ðɪs ˈwiːkˌend/", "zh": "這週末" },
+      { "en": "my grandma", "ipa": "/maɪ ˈɡrænmɑː/", "zh": "我阿嬤" },
+      { "en": "stay over", "ipa": "/steɪ ˈoʊvɚ/", "zh": "過夜" }
+    ]
+  },
+  {
+    "id": "a2-comparative",
+    "level": "A2",
+    "title": "比較級 · 比較兩樣東西",
+    "grammar": "adj-er than / more ... than：cheaper than, more fun than",
+    "q": "Which do you like better, MRT or bus? Why?",
+    "qZh": "捷運跟公車你比較喜歡哪個？為什麼？",
+    "answer": "I like the MRT better because it is faster than the bus.",
+    "cards": [
+      { "en": "faster than", "ipa": "/ˈfæstɚ ðæn/", "zh": "比…快" },
+      { "en": "cheaper than", "ipa": "/ˈtʃiːpɚ ðæn/", "zh": "比…便宜" },
+      { "en": "more convenient", "ipa": "/mɔːr kənˈviːniənt/", "zh": "更方便" },
+      { "en": "because ...", "ipa": "/bɪˈkʌz/", "zh": "因為…" }
+    ]
+  },
+  {
+    "id": "a2-past-weekend",
+    "level": "A2",
+    "title": "過去週末 · 連貫敘述",
+    "grammar": "過去式連用＋連接詞：first, then, after that",
+    "q": "How was your weekend? Tell me three things.",
+    "qZh": "週末如何？說三件事。",
+    "answer": "First I cleaned my room. Then I met friends. After that we ate hot pot.",
+    "cards": [
+      { "en": "first ...", "ipa": "/fɝːst/", "zh": "首先…" },
+      { "en": "then ...", "ipa": "/ðen/", "zh": "然後…" },
+      { "en": "after that", "ipa": "/ˈæftɚ ðæt/", "zh": "之後" },
+      { "en": "ate hot pot", "ipa": "/eɪt hɑːt pɑːt/", "zh": "吃火鍋" }
+    ]
+  },
+  {
+    "id": "b1-present-perfect",
+    "level": "B1",
+    "title": "現在完成式 · 經驗",
+    "grammar": "have + p.p.：I have been to Japan. ever / never",
+    "q": "Have you ever been abroad? Where?",
+    "qZh": "你出過國嗎？去哪裡？",
+    "answer": "I have been to Japan twice, but I have never been to Korea.",
+    "cards": [
+      { "en": "have been to", "ipa": "/hæv biːn tuː/", "zh": "去過" },
+      { "en": "twice", "ipa": "/twaɪs/", "zh": "兩次" },
+      { "en": "have never ...", "ipa": "/hæv ˈnevɚ/", "zh": "從沒…" },
+      { "en": "abroad", "ipa": "/əˈbrɔːd/", "zh": "國外" }
+    ]
+  },
+  {
+    "id": "b1-reasons",
+    "level": "B1",
+    "title": "原因理由 · because / so",
+    "grammar": "because 說原因，so 說結果，別放同一句",
+    "q": "Why are you learning English?",
+    "qZh": "你為什麼學英文？",
+    "answer": "I am learning English because I want to travel alone. So I practice every day.",
+    "cards": [
+      { "en": "because ...", "ipa": "/bɪˈkʌz/", "zh": "因為" },
+      { "en": "so ...", "ipa": "/soʊ/", "zh": "所以" },
+      { "en": "travel alone", "ipa": "/ˈtrævəl əˈloʊn/", "zh": "獨自旅行" },
+      { "en": "practice every day", "ipa": "/ˈpræktɪs ˈevri deɪ/", "zh": "每天練習" }
+    ]
+  },
+  {
+    "id": "b1-opinion",
+    "level": "B1",
+    "title": "表達看法 · I think ...",
+    "grammar": "I think (that) ...；同意 in my opinion，不同看法 but ...",
+    "q": "Do you think phones are good for students? Why?",
+    "qZh": "你覺得手機對學生好嗎？為什麼？",
+    "answer": "I think phones are useful, but students should not use them in class.",
+    "cards": [
+      { "en": "I think ...", "ipa": "/aɪ θɪŋk/", "zh": "我覺得…" },
+      { "en": "in my opinion", "ipa": "/ɪn maɪ əˈpɪnjən/", "zh": "依我看" },
+      { "en": "useful", "ipa": "/ˈjuːsfəl/", "zh": "有用的" },
+      { "en": "should not ...", "ipa": "/ʃʊd nɑːt/", "zh": "不應該…" }
     ]
   }
 ]

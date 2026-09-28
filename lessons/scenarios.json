@@ -1,0 +1,54 @@
+[
+  {
+    "id": "restaurant",
+    "title": "餐廳點餐",
+    "situation": "You are at a restaurant. Order food and ask about the menu.",
+    "situationZh": "你在餐廳。點餐並問菜單。",
+    "agentRole": "你是服務生，先問 How many people? 再介紹今日特餐，引導學生點餐。",
+    "phrases": [
+      { "en": "a table for two", "ipa": "/ə ˈteɪbəl fɔːr tuː/", "zh": "兩位桌" },
+      { "en": "Can I see the menu?", "ipa": "/kæn aɪ siː ðə ˈmenjuː/", "zh": "可以看菜單嗎？" },
+      { "en": "I would like ...", "ipa": "/aɪ wʊd laɪk/", "zh": "我想要…" },
+      { "en": "the check, please", "ipa": "/ðə tʃek pliːz/", "zh": "買單" }
+    ]
+  },
+  {
+    "id": "interview",
+    "title": "打工面試",
+    "situation": "Job interview for a part-time cafe job.",
+    "situationZh": "咖啡店打工面試。",
+    "agentRole": "你是店長，問自我介紹、為什麼想來、週末能排班嗎，學生用語音回答。",
+    "phrases": [
+      { "en": "tell me about yourself", "ipa": "/tel miː əˈbaʊt jɔːrˈself/", "zh": "自我介紹" },
+      { "en": "I am good at ...", "ipa": "/aɪ æm ɡʊd æt/", "zh": "我擅長…" },
+      { "en": "weekend shifts", "ipa": "/ˈwiːkˌend ʃɪfts/", "zh": "假日班" },
+      { "en": "team player", "ipa": "/tiːm ˈpleɪɚ/", "zh": "團隊合作的人" }
+    ]
+  },
+  {
+    "id": "travel",
+    "title": "機場旅遊",
+    "situation": "At the airport. Ask for directions and help.",
+    "situationZh": "在機場。問路跟求助。",
+    "agentRole": "你是機場人員，學生問登機門、轉機、行李問題，你回答並反問確認。",
+    "phrases": [
+      { "en": "Where is gate ...?", "ipa": "/wer ɪz ɡeɪt/", "zh": "登機門在哪？" },
+      { "en": "boarding pass", "ipa": "/ˈbɔːrdɪŋ pæs/", "zh": "登機證" },
+      { "en": "transfer / layover", "ipa": "/ˈtrænsfɚ ˈleɪoʊvɚ/", "zh": "轉機／中停" },
+      { "en": "my luggage is lost", "ipa": "/maɪ ˈlʌɡɪdʒ ɪz lɔːst/", "zh": "行李丟了" }
+    ]
+  },
+  {
+    "id": "clinic",
+    "title": "看醫生",
+    "situation": "At the clinic. Describe symptoms.",
+    "situationZh": "在診所。描述症狀。",
+    "agentRole": "你是醫生，問哪裡不舒服、多久了、有沒有發燒，引導學生描述症狀。",
+    "phrases": [
+      { "en": "I have a headache", "ipa": "/aɪ hæv ə ˈhedeɪk/", "zh": "我頭痛" },
+      { "en": "for three days", "ipa": "/fɔːr θriː deɪz/", "zh": "三天了" },
+      { "en": "a fever", "ipa": "/ə ˈfiːvɚ/", "zh": "發燒" },
+      { "en": "take this medicine", "ipa": "/teɪk ðɪs ˈmedəsən/", "zh": "吃這個藥" }
+    ]
+  }
+]

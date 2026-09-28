@@ -1,0 +1,14 @@
+{
+  "title": "分級測驗 Placement — 8 題判定 A1 / A2 / B1",
+  "how": "學生用語音逐題回答。Agent 計分：0–2 對 → A1 從頭；3–5 → A2；6–8 → B1。每題答對給 1 分（意思清楚＋時態大致對就算對）。",
+  "questions": [
+    { "q": "What is your name? Where are you from?", "qZh": "名字？來自哪裡？", "point": "be 動詞自介" },
+    { "q": "What do you do every morning?", "qZh": "每天早上做什麼？", "point": "現在簡單式" },
+    { "q": "What can you do well?", "qZh": "你什麼做得很好？", "point": "can" },
+    { "q": "What did you do last night?", "qZh": "昨晚做了什麼？", "point": "過去式" },
+    { "q": "What are you doing these days?", "qZh": "最近在忙什麼？", "point": "進行式/近況" },
+    { "q": "What are you going to do next month?", "qZh": "下個月打算做什麼？", "point": "未來計畫" },
+    { "q": "Which is better, summer or winter? Why?", "qZh": "夏天冬天哪個好？為什麼？", "point": "比較級＋理由" },
+    { "q": "Have you ever tried something new? What happened?", "qZh": "試過新事物嗎？結果？", "point": "完成式＋敘事" }
+  ]
+}

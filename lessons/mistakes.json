@@ -1,0 +1,13 @@
+{
+  "_schema": "錯題本：每次家教把學生錯的記一筆，複習時優先考這些",
+  "entries": [
+    {
+      "date": "範例，不要刪：2026-09-27",
+      "lesson": "a1-present-habits",
+      "wrong": "She go to work every day.",
+      "fixed": "She goes to work every day.",
+      "point": "三單加 s",
+      "reviewed": 0
+    }
+  ]
+}

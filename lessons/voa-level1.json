@@ -1,0 +1,2594 @@
+[
+ {
+  "answer": "Let's try that again. I'm Anna. Nice to meet you.",
+  "cards": [
+   {
+    "en": "try",
+    "ipa": "",
+    "zh": "嘗試"
+   },
+   {
+    "en": "again",
+    "ipa": "",
+    "zh": "再一次"
+   },
+   {
+    "en": "nice",
+    "ipa": "",
+    "zh": "愉快的"
+   },
+   {
+    "en": "meet",
+    "ipa": "",
+    "zh": "見面"
+   }
+  ],
+  "grammar": "自我介紹用 I'm + 名字，初次見面說 Nice to meet you.",
+  "id": "voa-l1-1",
+  "level": "A1",
+  "q": "Repeat after me: Let's try that again. I'm Anna. Nice to meet you.",
+  "qZh": "跟著我唸一次：我們再試一次。我是安娜。很高興認識你。",
+  "source": {
+   "lesson": "Lesson 1: Welcome!",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/02/08/49485bf8-4277-47f6-9abe-617ee2473f8c.mp3"
+  },
+  "title": "第一課：歡迎 · 自我介紹與問候"
+ },
+ {
+  "answer": "Well, Anna with two \"n's\" ... Welcome to ... 1400 Irving Street!",
+  "cards": [
+   {
+    "en": "well",
+    "ipa": "",
+    "zh": "嗯；那麼"
+   },
+   {
+    "en": "with",
+    "ipa": "",
+    "zh": "帶著；有"
+   },
+   {
+    "en": "welcome to",
+    "ipa": "",
+    "zh": "歡迎來到"
+   },
+   {
+    "en": "street",
+    "ipa": "",
+    "zh": "街道"
+   }
+  ],
+  "grammar": "歡迎某人到某地用 Welcome to + 地點。",
+  "id": "voa-l1-2",
+  "level": "A1",
+  "q": "Repeat after me: Well, Anna with two n's ... Welcome to ... 1400 Irving Street!",
+  "qZh": "跟著我唸一次：好的，有兩個 n 的安娜……歡迎來到歐文街1400號！",
+  "source": {
+   "lesson": "Lesson 1: Welcome!",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/02/08/49485bf8-4277-47f6-9abe-617ee2473f8c.mp3"
+  },
+  "title": "第一課：歡迎 · 自我介紹與問候"
+ },
+ {
+  "answer": "Yes! Hi there! Are you Pete?",
+  "cards": [
+   {
+    "en": "yes",
+    "ipa": "",
+    "zh": "是的"
+   },
+   {
+    "en": "hi there",
+    "ipa": "",
+    "zh": "嗨，你好"
+   },
+   {
+    "en": "are you",
+    "ipa": "",
+    "zh": "你是嗎"
+   },
+   {
+    "en": "Pete",
+    "ipa": "",
+    "zh": "皮特（人名）"
+   }
+  ],
+  "grammar": "用 Are you ...? 詢問對方身分，肯定回答用 Yes。",
+  "id": "voa-l1-3",
+  "level": "A1",
+  "q": "How do you ask if he is Pete? Say: Yes! Hi there! Are you Pete?",
+  "qZh": "你想確認他是不是皮特，該怎麼問？說出答案。",
+  "source": {
+   "lesson": "Lesson 1: Welcome!",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/02/08/49485bf8-4277-47f6-9abe-617ee2473f8c.mp3"
+  },
+  "title": "第一課：歡迎 · 自我介紹與問候"
+ },
+ {
+  "answer": "She is Anna. She is new to D.C.",
+  "cards": [
+   {
+    "en": "she",
+    "ipa": "",
+    "zh": "她"
+   },
+   {
+    "en": "new",
+    "ipa": "",
+    "zh": "新的；初到的"
+   },
+   {
+    "en": "to",
+    "ipa": "",
+    "zh": "到"
+   },
+   {
+    "en": "D.C.",
+    "ipa": "",
+    "zh": "華盛頓特區"
+   }
+  ],
+  "grammar": "介紹第三者用 She/He is + 名字，剛到某地說 be new to + 地點。",
+  "id": "voa-l1-4",
+  "level": "A1",
+  "q": "Repeat after me: She is Anna. She is new to D.C.",
+  "qZh": "跟著我唸一次：她是安娜。她剛到華盛頓特區。",
+  "source": {
+   "lesson": "Lesson 2: Hello, I'm Anna!",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/02/10/56246d7b-5fa4-42d2-90b0-d403e6b46227.mp3"
+  },
+  "title": "第二課：自我介紹 · be 動詞與來自哪裡"
+ },
+ {
+  "answer": "I am in apartment C2. Marsha is my roommate.",
+  "cards": [
+   {
+    "en": "apartment",
+    "ipa": "",
+    "zh": "公寓"
+   },
+   {
+    "en": "roommate",
+    "ipa": "",
+    "zh": "室友"
+   },
+   {
+    "en": "my",
+    "ipa": "",
+    "zh": "我的"
+   },
+   {
+    "en": "in",
+    "ipa": "",
+    "zh": "在……裡面"
+   }
+  ],
+  "grammar": "說明住哪裡用 I am in + 房號，室友是 roommate。",
+  "id": "voa-l1-5",
+  "level": "A1",
+  "q": "Repeat after me: I am in apartment C2. Marsha is my roommate.",
+  "qZh": "跟著我唸一次：我住在 C2 公寓。瑪莎是我的室友。",
+  "source": {
+   "lesson": "Lesson 2: Hello, I'm Anna!",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/02/10/56246d7b-5fa4-42d2-90b0-d403e6b46227.mp3"
+  },
+  "title": "第二課：自我介紹 · be 動詞與來自哪裡"
+ },
+ {
+  "answer": "Remember to call Marsha at work. Tell her you're here.",
+  "cards": [
+   {
+    "en": "remember to",
+    "ipa": "",
+    "zh": "記得（要做某事）"
+   },
+   {
+    "en": "call",
+    "ipa": "",
+    "zh": "打電話給"
+   },
+   {
+    "en": "at work",
+    "ipa": "",
+    "zh": "在上班；在工作"
+   },
+   {
+    "en": "tell",
+    "ipa": "",
+    "zh": "告訴"
+   }
+  ],
+  "grammar": "remember to + 原形動詞表示記得去做某事，tell her 表示告訴她。",
+  "id": "voa-l1-6",
+  "level": "A1",
+  "q": "How do you remind Pete to phone Marsha? Say: Remember to call Marsha at work. Tell her you're here.",
+  "qZh": "你想提醒皮特打電話給在上班的瑪莎，該怎麼說？說出答案。",
+  "source": {
+   "lesson": "Lesson 2: Hello, I'm Anna!",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/02/10/56246d7b-5fa4-42d2-90b0-d403e6b46227.mp3"
+  },
+  "title": "第二課：自我介紹 · be 動詞與來自哪裡"
+ },
+ {
+  "answer": "I am sorry. You have the wrong number.",
+  "cards": [
+   {
+    "en": "sorry",
+    "ipa": "",
+    "zh": "抱歉的"
+   },
+   {
+    "en": "wrong",
+    "ipa": "",
+    "zh": "錯誤的"
+   },
+   {
+    "en": "number",
+    "ipa": "",
+    "zh": "號碼"
+   },
+   {
+    "en": "have",
+    "ipa": "",
+    "zh": "有；打（電話）"
+   }
+  ],
+  "grammar": "打錯電話時說 You have the wrong number，先說 I am sorry 表禮貌。",
+  "id": "voa-l1-7",
+  "level": "A1",
+  "q": "Repeat after me: I am sorry. You have the wrong number.",
+  "qZh": "跟著我唸一次：抱歉，你打錯電話了。",
+  "source": {
+   "lesson": "Lesson 3: I'm Here!",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/02/18/a82baaf4-0a91-4d43-8ab6-78f72cef8fce.mp3"
+  },
+  "title": "第三課：我在這裡 · here/there 與 want to"
+ },
+ {
+  "answer": "Oh, okay. The supermarket is at 1500 Irving Street. It is near the apartment.",
+  "cards": [
+   {
+    "en": "supermarket",
+    "ipa": "",
+    "zh": "超市"
+   },
+   {
+    "en": "near",
+    "ipa": "",
+    "zh": "在……附近"
+   },
+   {
+    "en": "apartment",
+    "ipa": "",
+    "zh": "公寓"
+   },
+   {
+    "en": "street",
+    "ipa": "",
+    "zh": "街道"
+   }
+  ],
+  "grammar": "說明地點用 be + at + 地址，near 表示在附近。",
+  "id": "voa-l1-8",
+  "level": "A1",
+  "q": "Repeat after me: Oh, okay. The supermarket is at 1500 Irving Street. It is near the apartment.",
+  "qZh": "跟著我唸一次：喔，好。超市在歐文街1500號，就在公寓附近。",
+  "source": {
+   "lesson": "Lesson 3: I'm Here!",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/02/18/a82baaf4-0a91-4d43-8ab6-78f72cef8fce.mp3"
+  },
+  "title": "第三課：我在這裡 · here/there 與 want to"
+ },
+ {
+  "answer": "There is a big supermarket on our street.",
+  "cards": [
+   {
+    "en": "there is",
+    "ipa": "",
+    "zh": "有（單數）"
+   },
+   {
+    "en": "big",
+    "ipa": "",
+    "zh": "大的"
+   },
+   {
+    "en": "supermarket",
+    "ipa": "",
+    "zh": "超市"
+   },
+   {
+    "en": "street",
+    "ipa": "",
+    "zh": "街道"
+   }
+  ],
+  "grammar": "There is + 單數名詞表示某處有某樣東西。",
+  "id": "voa-l1-9",
+  "level": "A1",
+  "q": "How do you say there is a supermarket on your street? Say: There is a big supermarket on our street.",
+  "qZh": "你想說你們街上有間大超市，該怎麼說？說出答案。",
+  "source": {
+   "lesson": "Lesson 3: I'm Here!",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/02/18/a82baaf4-0a91-4d43-8ab6-78f72cef8fce.mp3"
+  },
+  "title": "第三課：我在這裡 · here/there 與 want to"
+ },
+ {
+  "answer": "You know, Pete, I am new to D.C. The city is big.",
+  "cards": [
+   {
+    "en": "know",
+    "ipa": "",
+    "zh": "知道"
+   },
+   {
+    "en": "new",
+    "ipa": "",
+    "zh": "初到的"
+   },
+   {
+    "en": "city",
+    "ipa": "",
+    "zh": "城市"
+   },
+   {
+    "en": "big",
+    "ipa": "",
+    "zh": "大的"
+   }
+  ],
+  "grammar": "be new to + 地點表示剛到某地，形容詞 big 描述城市。",
+  "id": "voa-l1-10",
+  "level": "A1",
+  "q": "Repeat after me: You know, Pete, I am new to D.C. The city is big.",
+  "qZh": "跟著我唸一次：你知道嗎，皮特，我剛到華盛頓特區，這城市很大。",
+  "source": {
+   "lesson": "Lesson 4: What Is It?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/02/26/af0324f6-67c5-4c0c-ab42-abb0cd33817c.mp3"
+  },
+  "title": "第四課：這是什麼 · What 問句與 a/an"
+ },
+ {
+  "answer": "Yes. I have a pen in my bag.",
+  "cards": [
+   {
+    "en": "have",
+    "ipa": "",
+    "zh": "有"
+   },
+   {
+    "en": "pen",
+    "ipa": "",
+    "zh": "筆"
+   },
+   {
+    "en": "in",
+    "ipa": "",
+    "zh": "在……裡面"
+   },
+   {
+    "en": "bag",
+    "ipa": "",
+    "zh": "包包"
+   }
+  ],
+  "grammar": "I have + 名詞表示我有某物，in my bag 表示在我的包包裡。",
+  "id": "voa-l1-11",
+  "level": "A1",
+  "q": "How do you say you have a pen in your bag? Say: Yes. I have a pen in my bag.",
+  "qZh": "你想說你的包包裡有一支筆，該怎麼說？說出答案。",
+  "source": {
+   "lesson": "Lesson 4: What Is It?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/02/26/af0324f6-67c5-4c0c-ab42-abb0cd33817c.mp3"
+  },
+  "title": "第四課：這是什麼 · What 問句與 a/an"
+ },
+ {
+  "answer": "It is not a pen. It is a book. It is a big book.",
+  "cards": [
+   {
+    "en": "it",
+    "ipa": "",
+    "zh": "它"
+   },
+   {
+    "en": "not",
+    "ipa": "",
+    "zh": "不"
+   },
+   {
+    "en": "pen",
+    "ipa": "",
+    "zh": "筆"
+   },
+   {
+    "en": "book",
+    "ipa": "",
+    "zh": "書"
+   }
+  ],
+  "grammar": "否定句用 It is not + 名詞，單數可數名詞前加 a。",
+  "id": "voa-l1-12",
+  "level": "A1",
+  "q": "Repeat after me: It is not a pen. It is a book. It is a big book.",
+  "qZh": "跟著我唸一次：它不是筆，它是書，它是一本大書。",
+  "source": {
+   "lesson": "Lesson 4: What Is It?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/02/26/af0324f6-67c5-4c0c-ab42-abb0cd33817c.mp3"
+  },
+  "title": "第四課：這是什麼 · What 問句與 a/an"
+ },
+ {
+  "answer": "Things are awesome! Pete, I want to work out. Where is the gym?",
+  "cards": [
+   {
+    "en": "awesome",
+    "ipa": "",
+    "zh": "很棒的"
+   },
+   {
+    "en": "want to",
+    "ipa": "",
+    "zh": "想要（做某事）"
+   },
+   {
+    "en": "work out",
+    "ipa": "",
+    "zh": "運動；健身"
+   },
+   {
+    "en": "gym",
+    "ipa": "",
+    "zh": "健身房"
+   }
+  ],
+  "grammar": "問地點用 Where is ...?，want to 後接原形動詞。",
+  "id": "voa-l1-13",
+  "level": "A1",
+  "q": "Repeat after me: Things are awesome! Pete, I want to work out. Where is the gym?",
+  "qZh": "跟著我唸一次：一切都很棒！皮特，我想運動。健身房在哪裡？",
+  "source": {
+   "lesson": "Lesson 6: Where Is the Gym?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/03/10/66b63229-1dc5-40ab-886d-1f4b891adf6b.mp3"
+  },
+  "title": "第六課：體育館在哪裡 · Where 問句與方位介系詞"
+ },
+ {
+  "answer": "The gym is across from the lounge. It's next to the mailroom.",
+  "cards": [
+   {
+    "en": "gym",
+    "ipa": "",
+    "zh": "健身房"
+   },
+   {
+    "en": "across from",
+    "ipa": "",
+    "zh": "在……對面"
+   },
+   {
+    "en": "lounge",
+    "ipa": "",
+    "zh": "休息室"
+   },
+   {
+    "en": "next to",
+    "ipa": "",
+    "zh": "在……旁邊"
+   }
+  ],
+  "grammar": "across from 表示在對面，next to 表示在旁邊，都是方位介系詞。",
+  "id": "voa-l1-14",
+  "level": "A1",
+  "q": "Repeat after me: The gym is across from the lounge. It's next to the mailroom.",
+  "qZh": "跟著我唸一次：健身房在休息室對面，就在收發室旁邊。",
+  "source": {
+   "lesson": "Lesson 6: Where Is the Gym?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/03/10/66b63229-1dc5-40ab-886d-1f4b891adf6b.mp3"
+  },
+  "title": "第六課：體育館在哪裡 · Where 問句與方位介系詞"
+ },
+ {
+  "answer": "The gym is across from the lounge. It is behind the lobby.",
+  "cards": [
+   {
+    "en": "gym",
+    "ipa": "",
+    "zh": "健身房"
+   },
+   {
+    "en": "across from",
+    "ipa": "",
+    "zh": "在……對面"
+   },
+   {
+    "en": "behind",
+    "ipa": "",
+    "zh": "在……後面"
+   },
+   {
+    "en": "lobby",
+    "ipa": "",
+    "zh": "大廳"
+   }
+  ],
+  "grammar": "behind 表示在後面，與 across from 都是說明位置的介系詞。",
+  "id": "voa-l1-15",
+  "level": "A1",
+  "q": "How do you explain where the gym is? Say: The gym is across from the lounge. It is behind the lobby.",
+  "qZh": "你想說明健身房的位置，該怎麼說？說出答案。",
+  "source": {
+   "lesson": "Lesson 6: Where Is the Gym?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/03/10/66b63229-1dc5-40ab-886d-1f4b891adf6b.mp3"
+  },
+  "title": "第六課：體育館在哪裡 · Where 問句與方位介系詞"
+ },
+ {
+  "answer": "I am your boss, Caty Weaver. But, please call me Caty.",
+  "cards": [
+   {
+    "en": "boss",
+    "ipa": "",
+    "zh": "老闆"
+   },
+   {
+    "en": "but",
+    "ipa": "",
+    "zh": "但是"
+   },
+   {
+    "en": "please",
+    "ipa": "",
+    "zh": "請"
+   },
+   {
+    "en": "call me",
+    "ipa": "",
+    "zh": "叫我"
+   }
+  ],
+  "grammar": "介紹身分用 I am + 職稱，請對方做某事用 please + 原形動詞。",
+  "id": "voa-l1-16",
+  "level": "A1",
+  "q": "Repeat after me: I am your boss, Caty Weaver. But, please call me Caty.",
+  "qZh": "跟著我唸一次：我是你的老闆，凱蒂·薇佛。但請叫我凱蒂就好。",
+  "source": {
+   "lesson": "Lesson 7: What Are You Doing?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/03/16/5d724fbc-a907-4a48-9221-c1813d248168.mp3"
+  },
+  "title": "第七課：你在做什麼 · 現在進行式"
+ },
+ {
+  "answer": "Nice to meet you. What are you doing?",
+  "cards": [
+   {
+    "en": "nice",
+    "ipa": "",
+    "zh": "愉快的"
+   },
+   {
+    "en": "meet",
+    "ipa": "",
+    "zh": "見面"
+   },
+   {
+    "en": "what",
+    "ipa": "",
+    "zh": "什麼"
+   },
+   {
+    "en": "doing",
+    "ipa": "",
+    "zh": "正在做"
+   }
+  ],
+  "grammar": "問對方正在做什麼用 What are you doing?，doing 是 do 的現在分詞。",
+  "id": "voa-l1-17",
+  "level": "A1",
+  "q": "How do you ask what someone is doing? Say: Nice to meet you. What are you doing?",
+  "qZh": "你想問對方正在做什麼，該怎麼說？說出答案。",
+  "source": {
+   "lesson": "Lesson 7: What Are You Doing?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/03/16/5d724fbc-a907-4a48-9221-c1813d248168.mp3"
+  },
+  "title": "第七課：你在做什麼 · 現在進行式"
+ },
+ {
+  "answer": "So sorry, but I am busy. Please meet your co-workers.",
+  "cards": [
+   {
+    "en": "sorry",
+    "ipa": "",
+    "zh": "抱歉的"
+   },
+   {
+    "en": "busy",
+    "ipa": "",
+    "zh": "忙碌的"
+   },
+   {
+    "en": "meet",
+    "ipa": "",
+    "zh": "見面；認識"
+   },
+   {
+    "en": "co-workers",
+    "ipa": "",
+    "zh": "同事"
+   }
+  ],
+  "grammar": "I am busy 表示我很忙，please + 動詞用來提出請求。",
+  "id": "voa-l1-18",
+  "level": "A1",
+  "q": "Repeat after me: So sorry, but I am busy. Please meet your co-workers.",
+  "qZh": "跟著我唸一次：真抱歉，但我很忙。請去見見你的同事們。",
+  "source": {
+   "lesson": "Lesson 7: What Are You Doing?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/03/16/5d724fbc-a907-4a48-9221-c1813d248168.mp3"
+  },
+  "title": "第七課：你在做什麼 · 現在進行式"
+ },
+ {
+  "answer": "I want to say I'm sorry for yesterday.",
+  "cards": [
+   {
+    "en": "want to",
+    "ipa": "",
+    "zh": "想要（做某事）"
+   },
+   {
+    "en": "say",
+    "ipa": "",
+    "zh": "說"
+   },
+   {
+    "en": "sorry",
+    "ipa": "",
+    "zh": "抱歉的"
+   },
+   {
+    "en": "yesterday",
+    "ipa": "",
+    "zh": "昨天"
+   }
+  ],
+  "grammar": "為過去的事道歉用 I'm sorry for + 名詞，want to 後接原形動詞。",
+  "id": "voa-l1-19",
+  "level": "A1",
+  "q": "Repeat after me: I want to say I'm sorry for yesterday.",
+  "qZh": "跟著我唸一次：我想為昨天的事道歉。",
+  "source": {
+   "lesson": "Lesson 8: Are You Busy?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/03/25/ae6c5055-13ae-485b-995d-b347125ecf10.mp3"
+  },
+  "title": "第八課：你在忙嗎 · 詢問狀態與道歉"
+ },
+ {
+  "answer": "A party! Awesome! And I still have my job!",
+  "cards": [
+   {
+    "en": "party",
+    "ipa": "",
+    "zh": "派對"
+   },
+   {
+    "en": "awesome",
+    "ipa": "",
+    "zh": "超棒的"
+   },
+   {
+    "en": "still",
+    "ipa": "",
+    "zh": "仍然"
+   },
+   {
+    "en": "job",
+    "ipa": "",
+    "zh": "工作"
+   }
+  ],
+  "grammar": "still 表示仍然，I still have my job 表示我還保住工作。",
+  "id": "voa-l1-20",
+  "level": "A1",
+  "q": "Repeat after me: A party! Awesome! And I still have my job!",
+  "qZh": "跟著我唸一次：有派對！太棒了！而且我還保住了工作！",
+  "source": {
+   "lesson": "Lesson 8: Are You Busy?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/03/25/ae6c5055-13ae-485b-995d-b347125ecf10.mp3"
+  },
+  "title": "第八課：你在忙嗎 · 詢問狀態與道歉"
+ },
+ {
+  "answer": "Yes, Ms. Weaver. I am busy.",
+  "cards": [
+   {
+    "en": "yes",
+    "ipa": "",
+    "zh": "是的"
+   },
+   {
+    "en": "Ms.",
+    "ipa": "",
+    "zh": "女士（稱謂）"
+   },
+   {
+    "en": "busy",
+    "ipa": "",
+    "zh": "忙碌的"
+   },
+   {
+    "en": "am",
+    "ipa": "",
+    "zh": "是（我是）"
+   }
+  ],
+  "grammar": "回答 Are you busy? 用 Yes + I am busy，busy 是形容詞。",
+  "id": "voa-l1-21",
+  "level": "A1",
+  "q": "How do you answer that you are busy? Say: Yes, Ms. Weaver. I am busy.",
+  "qZh": "老闆問你在忙嗎，你想回答說很忙，該怎麼說？說出答案。",
+  "source": {
+   "lesson": "Lesson 8: Are You Busy?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/03/25/ae6c5055-13ae-485b-995d-b347125ecf10.mp3"
+  },
+  "title": "第八課：你在忙嗎 · 詢問狀態與道歉"
+ },
+ {
+  "answer": "Today the weather is warm and sunny -- great for seeing Washington, D.C.",
+  "cards": [
+   {
+    "en": "weather",
+    "ipa": "",
+    "zh": "天氣"
+   },
+   {
+    "en": "warm",
+    "ipa": "",
+    "zh": "溫暖的"
+   },
+   {
+    "en": "sunny",
+    "ipa": "",
+    "zh": "晴朗的"
+   },
+   {
+    "en": "great",
+    "ipa": "",
+    "zh": "很棒的"
+   }
+  ],
+  "grammar": "談天氣用 The weather is + 形容詞，如 warm 和 sunny。",
+  "id": "voa-l1-22",
+  "level": "A1",
+  "q": "Repeat after me: Today the weather is warm and sunny -- great for seeing Washington, D.C.",
+  "qZh": "跟著我唸一次：今天天氣溫暖晴朗——很適合遊覽華盛頓特區。",
+  "source": {
+   "lesson": "Lesson 9: Is It Cold?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/04/01/fe67e651-87d0-4b62-9c68-749b2d3c2f21.mp3"
+  },
+  "title": "第九課：天氣冷嗎 · 天氣英文"
+ },
+ {
+  "answer": "Washington weather changes often. Remember to check the forecast -- the right forecast.",
+  "cards": [
+   {
+    "en": "weather",
+    "ipa": "",
+    "zh": "天氣"
+   },
+   {
+    "en": "changes",
+    "ipa": "",
+    "zh": "變化"
+   },
+   {
+    "en": "often",
+    "ipa": "",
+    "zh": "經常"
+   },
+   {
+    "en": "forecast",
+    "ipa": "",
+    "zh": "預報"
+   }
+  ],
+  "grammar": "remember to + 動詞表示記得去做，forecast 指天氣預報。",
+  "id": "voa-l1-23",
+  "level": "A1",
+  "q": "Repeat after me: Washington weather changes often. Remember to check the forecast -- the right forecast.",
+  "qZh": "跟著我唸一次：華盛頓的天氣變化多端。記得看預報——要看對的預報。",
+  "source": {
+   "lesson": "Lesson 9: Is It Cold?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/04/01/fe67e651-87d0-4b62-9c68-749b2d3c2f21.mp3"
+  },
+  "title": "第九課：天氣冷嗎 · 天氣英文"
+ },
+ {
+  "answer": "Phone! It is not warm and sunny! It is cold and windy and snowy!",
+  "cards": [
+   {
+    "en": "warm",
+    "ipa": "",
+    "zh": "溫暖的"
+   },
+   {
+    "en": "cold",
+    "ipa": "",
+    "zh": "寒冷的"
+   },
+   {
+    "en": "windy",
+    "ipa": "",
+    "zh": "有風的"
+   },
+   {
+    "en": "snowy",
+    "ipa": "",
+    "zh": "下雪的"
+   }
+  ],
+  "grammar": "否定天氣用 It is not + 形容詞，可用 and 連接多個形容詞。",
+  "id": "voa-l1-24",
+  "level": "A1",
+  "q": "How do you correct the weather report? Say: Phone! It is not warm and sunny! It is cold and windy and snowy!",
+  "qZh": "你想糾正天氣預報，說實際又冷又有風還下雪，該怎麼說？說出答案。",
+  "source": {
+   "lesson": "Lesson 9: Is It Cold?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/04/01/fe67e651-87d0-4b62-9c68-749b2d3c2f21.mp3"
+  },
+  "title": "第九課：天氣冷嗎 · 天氣英文"
+ },
+ {
+  "id": "voa-l1-25",
+  "level": "A1",
+  "title": "第十課：來我家玩 · 指路與方位",
+  "grammar": "用 turn right / turn left / go straight 表達轉彎與直走，問路時很好用。",
+  "q": "Repeat after me: I'm coming to your apartment. Where is your apartment?",
+  "qZh": "跟著我唸一次：我正要去你的公寓。你的公寓在哪裡？",
+  "answer": "I'm coming to your apartment. Where is your apartment?",
+  "cards": [
+   {
+    "en": "coming",
+    "ipa": "",
+    "zh": "正在前來"
+   },
+   {
+    "en": "apartment",
+    "ipa": "",
+    "zh": "公寓"
+   },
+   {
+    "en": "where",
+    "ipa": "",
+    "zh": "在哪裡"
+   },
+   {
+    "en": "your",
+    "ipa": "",
+    "zh": "你的"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 10: Come Over to My Place",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/04/14/442a6a50-693e-411f-8cff-99e40d16614c.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-26",
+  "level": "A2",
+  "title": "第十課：來我家玩 · 指路與方位",
+  "grammar": "祈使句 Exit / Turn / Go 連用，可以一步一步指引方向。",
+  "q": "Give directions step by step: Exit Metro, turn right, turn left, then go straight ahead?",
+  "qZh": "一步一步指路：出地鐵站，右轉，左轉，然後直走？",
+  "answer": "Exit Metro, turn right, turn left, then go straight ahead?",
+  "cards": [
+   {
+    "en": "exit",
+    "ipa": "",
+    "zh": "離開；出口"
+   },
+   {
+    "en": "turn right",
+    "ipa": "",
+    "zh": "右轉"
+   },
+   {
+    "en": "turn left",
+    "ipa": "",
+    "zh": "左轉"
+   },
+   {
+    "en": "straight ahead",
+    "ipa": "",
+    "zh": "直走"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 10: Come Over to My Place",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/04/14/442a6a50-693e-411f-8cff-99e40d16614c.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-27",
+  "level": "A1",
+  "title": "第十課：來我家玩 · 指路與方位",
+  "grammar": "用 I see it 表示「我看到了」，找到地標時可以這樣說。",
+  "q": "Repeat after me: A big department store? Ah, I see it!",
+  "qZh": "跟著我唸一次：一家大百貨公司？啊，我看到了！",
+  "answer": "A big department store? Ah, I see it!",
+  "cards": [
+   {
+    "en": "big",
+    "ipa": "",
+    "zh": "大的"
+   },
+   {
+    "en": "department store",
+    "ipa": "",
+    "zh": "百貨公司"
+   },
+   {
+    "en": "see",
+    "ipa": "",
+    "zh": "看見"
+   },
+   {
+    "en": "it",
+    "ipa": "",
+    "zh": "它"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 10: Come Over to My Place",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/04/14/442a6a50-693e-411f-8cff-99e40d16614c.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-28",
+  "level": "A1",
+  "title": "第十一課：這是我的社區 · There is / There are",
+  "grammar": "描述社區裡有什麼，用 In our neighborhood + I can do ... 表達能做的事。",
+  "q": "Repeat after me: In our neighborhood, I can do all my errands.",
+  "qZh": "跟著我唸一次：在我們的社區裡，我可以辦完我所有的雜事。",
+  "answer": "In our neighborhood, I can do all my errands.",
+  "cards": [
+   {
+    "en": "neighborhood",
+    "ipa": "",
+    "zh": "社區"
+   },
+   {
+    "en": "can",
+    "ipa": "",
+    "zh": "可以"
+   },
+   {
+    "en": "all",
+    "ipa": "",
+    "zh": "全部的"
+   },
+   {
+    "en": "errands",
+    "ipa": "",
+    "zh": "雜事；差事"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 11: This Is My Neighborhood",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/04/20/de238e35-97b9-4c21-81e3-e3c26fbeccaa.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-29",
+  "level": "A1",
+  "title": "第十一課：這是我的社區 · There is / There are",
+  "grammar": "說明地點用 It is on ... street on the corner（在街角）。",
+  "q": "Say where the library is: It is on this street on the corner.",
+  "qZh": "說出圖書館在哪裡：它就在這條街的街角。",
+  "answer": "It is on this street on the corner.",
+  "cards": [
+   {
+    "en": "on",
+    "ipa": "",
+    "zh": "在……上"
+   },
+   {
+    "en": "street",
+    "ipa": "",
+    "zh": "街道"
+   },
+   {
+    "en": "corner",
+    "ipa": "",
+    "zh": "街角"
+   },
+   {
+    "en": "this",
+    "ipa": "",
+    "zh": "這"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 11: This Is My Neighborhood",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/04/20/de238e35-97b9-4c21-81e3-e3c26fbeccaa.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-30",
+  "level": "A1",
+  "title": "第十一課：這是我的社區 · There is / There are",
+  "grammar": "用 You know ... so well 稱讚別人對某地很熟悉。",
+  "q": "Thank Marsha for her help: Thanks, Marsha. You know our neighborhood so well.",
+  "qZh": "向瑪莎道謝：謝謝妳，瑪莎。妳對我們社區真熟悉。",
+  "answer": "Thanks, Marsha. You know our neighborhood so well.",
+  "cards": [
+   {
+    "en": "thanks",
+    "ipa": "",
+    "zh": "謝謝"
+   },
+   {
+    "en": "know",
+    "ipa": "",
+    "zh": "知道；熟悉"
+   },
+   {
+    "en": "our",
+    "ipa": "",
+    "zh": "我們的"
+   },
+   {
+    "en": "so well",
+    "ipa": "",
+    "zh": "非常好"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 11: This Is My Neighborhood",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/04/20/de238e35-97b9-4c21-81e3-e3c26fbeccaa.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-31",
+  "level": "A2",
+  "title": "第十二課：見見我的家人 · 談論家人",
+  "grammar": "用 Thanks for + V-ing 感謝別人為你做的事。",
+  "q": "Thank Marsha for sharing photos: Thanks for showing me your family photos. Your family is very different.",
+  "qZh": "謝謝瑪莎分享照片：謝謝妳給我看全家福。妳的家人很不一樣。",
+  "answer": "Thanks for showing me your family photos. Your family is very different.",
+  "cards": [
+   {
+    "en": "showing",
+    "ipa": "",
+    "zh": "展示"
+   },
+   {
+    "en": "family",
+    "ipa": "",
+    "zh": "家庭"
+   },
+   {
+    "en": "photos",
+    "ipa": "",
+    "zh": "照片"
+   },
+   {
+    "en": "different",
+    "ipa": "",
+    "zh": "不同的"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 12: Meet My Family",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/04/28/d1527ef7-587d-45b5-b3cc-fecbe37167ab.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-32",
+  "level": "A2",
+  "title": "第十二課：見見我的家人 · 談論家人",
+  "grammar": "用 I do feel + 形容詞加強語氣，表示「真的覺得……」。",
+  "q": "Say you feel better: I do feel better. Thanks for listening. I have many more photos!",
+  "qZh": "說你覺得好多了：我真的覺得好多了。謝謝妳聽我說。我還有很多照片！",
+  "answer": "I do feel better. Thanks for listening. I have many more photos!",
+  "cards": [
+   {
+    "en": "feel better",
+    "ipa": "",
+    "zh": "覺得好多了"
+   },
+   {
+    "en": "listening",
+    "ipa": "",
+    "zh": "傾聽"
+   },
+   {
+    "en": "many more",
+    "ipa": "",
+    "zh": "更多"
+   },
+   {
+    "en": "photos",
+    "ipa": "",
+    "zh": "照片"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 12: Meet My Family",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/04/28/d1527ef7-587d-45b5-b3cc-fecbe37167ab.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-33",
+  "level": "A1",
+  "title": "第十二課：見見我的家人 · 談論家人",
+  "grammar": "用 Washington, D.C. is my new home 表達把某地當成新家。",
+  "q": "Say D.C. is your new home: Washington, DC is my new home. But I like remembering my old home, too.",
+  "qZh": "說華盛頓是你的新家：華盛頓特區是我的新家。但我也喜歡懷念舊家。",
+  "answer": "Washington, DC is my new home. But I like remembering my old home, too.",
+  "cards": [
+   {
+    "en": "new home",
+    "ipa": "",
+    "zh": "新家"
+   },
+   {
+    "en": "old",
+    "ipa": "",
+    "zh": "舊的"
+   },
+   {
+    "en": "remembering",
+    "ipa": "",
+    "zh": "懷念"
+   },
+   {
+    "en": "too",
+    "ipa": "",
+    "zh": "也"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 12: Meet My Family",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/04/28/d1527ef7-587d-45b5-b3cc-fecbe37167ab.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-34",
+  "level": "A1",
+  "title": "第十四課：這件怎麼樣？ · 衣服與祈使句",
+  "grammar": "用 Take off ... / Let's try ... 試穿衣服時請對方脫下、試穿。",
+  "q": "Tell her to change clothes: Take off the green dress. Let's try a green shirt and a skirt.",
+  "qZh": "請她換衣服：脫下綠色洋裝。我們試試綠襯衫和裙子。",
+  "answer": "Take off the green dress. Let's try a green shirt and a skirt.",
+  "cards": [
+   {
+    "en": "take off",
+    "ipa": "",
+    "zh": "脫下"
+   },
+   {
+    "en": "dress",
+    "ipa": "",
+    "zh": "洋裝"
+   },
+   {
+    "en": "try",
+    "ipa": "",
+    "zh": "嘗試"
+   },
+   {
+    "en": "skirt",
+    "ipa": "",
+    "zh": "裙子"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 14: How About This?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/05/11/f3b56fb5-23f9-4668-bae1-d98ab8967e50.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-35",
+  "level": "A2",
+  "title": "第十四課：這件怎麼樣？ · 衣服與祈使句",
+  "grammar": "用 These clothes are + 形容詞描述衣服的風格。",
+  "q": "Describe the formal clothes: These clothes are formal: a suit jacket, a dress shirt and a tie!",
+  "qZh": "描述這套正式服裝：這些衣服很正式：西裝外套、襯衫和領帶！",
+  "answer": "These clothes are formal: a suit jacket, a dress shirt and a tie!",
+  "cards": [
+   {
+    "en": "clothes",
+    "ipa": "",
+    "zh": "衣服"
+   },
+   {
+    "en": "formal",
+    "ipa": "",
+    "zh": "正式的"
+   },
+   {
+    "en": "suit jacket",
+    "ipa": "",
+    "zh": "西裝外套"
+   },
+   {
+    "en": "tie",
+    "ipa": "",
+    "zh": "領帶"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 14: How About This?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/05/11/f3b56fb5-23f9-4668-bae1-d98ab8967e50.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-36",
+  "level": "A2",
+  "title": "第十四課：這件怎麼樣？ · 衣服與祈使句",
+  "grammar": "用 There are many places to go for ... 表達有很多地方可以去。",
+  "q": "Say D.C. has many evening places: There are many places in DC to go for a great evening out!",
+  "qZh": "說華盛頓有很多晚上可去的地方：華盛頓有很多地方可以度過美好的夜晚！",
+  "answer": "There are many places in DC to go for a great evening out!",
+  "cards": [
+   {
+    "en": "many",
+    "ipa": "",
+    "zh": "許多"
+   },
+   {
+    "en": "places",
+    "ipa": "",
+    "zh": "地方"
+   },
+   {
+    "en": "great",
+    "ipa": "",
+    "zh": "很棒的"
+   },
+   {
+    "en": "evening out",
+    "ipa": "",
+    "zh": "夜晚外出"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 14: How About This?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/05/11/f3b56fb5-23f9-4668-bae1-d98ab8967e50.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-37",
+  "level": "A1",
+  "title": "第十五課：我愛觀察路人 · 外貌描述",
+  "grammar": "用 She is + 形容詞、She has + 名詞描述一個人的外貌。",
+  "q": "Describe your boss: She is short. She has straight, light hair.",
+  "qZh": "描述你的老闆：她很嬌小。她有一頭直的淺色頭髮。",
+  "answer": "She is short. She has straight, light hair.",
+  "cards": [
+   {
+    "en": "short",
+    "ipa": "",
+    "zh": "嬌小的"
+   },
+   {
+    "en": "straight",
+    "ipa": "",
+    "zh": "直的"
+   },
+   {
+    "en": "light",
+    "ipa": "",
+    "zh": "淺色的"
+   },
+   {
+    "en": "hair",
+    "ipa": "",
+    "zh": "頭髮"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 15: I Love People-Watching!",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/05/31/b08ceeac-8274-4e2d-b678-2cd30ba31f4f.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-38",
+  "level": "A1",
+  "title": "第十五課：我愛觀察路人 · 外貌描述",
+  "grammar": "比較兩個人時，用 you have ... and I have ... 對照描述。",
+  "q": "Compare skin colors: You two have light skin and I have dark skin.",
+  "qZh": "比較膚色：你們兩位膚色較白，我的膚色較深。",
+  "answer": "You two have light skin and I have dark skin.",
+  "cards": [
+   {
+    "en": "light skin",
+    "ipa": "",
+    "zh": "白皙的皮膚"
+   },
+   {
+    "en": "dark skin",
+    "ipa": "",
+    "zh": "深色的皮膚"
+   },
+   {
+    "en": "have",
+    "ipa": "",
+    "zh": "有"
+   },
+   {
+    "en": "two",
+    "ipa": "",
+    "zh": "二"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 15: I Love People-Watching!",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/05/31/b08ceeac-8274-4e2d-b678-2cd30ba31f4f.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-39",
+  "level": "A2",
+  "title": "第十五課：我愛觀察路人 · 外貌描述",
+  "grammar": "用名字開頭點名對方，再說出觀察到的特徵。",
+  "q": "Compare hair types: Ashley, you have straight hair. Keyana and I have curly hair.",
+  "qZh": "比較髮質：艾希莉，妳是直髮。琪亞娜和我是捲髮。",
+  "answer": "Ashley, you have straight hair. Keyana and I have curly hair.",
+  "cards": [
+   {
+    "en": "straight hair",
+    "ipa": "",
+    "zh": "直髮"
+   },
+   {
+    "en": "curly hair",
+    "ipa": "",
+    "zh": "捲髮"
+   },
+   {
+    "en": "and",
+    "ipa": "",
+    "zh": "和"
+   },
+   {
+    "en": "have",
+    "ipa": "",
+    "zh": "有"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 15: I Love People-Watching!",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/05/31/b08ceeac-8274-4e2d-b678-2cd30ba31f4f.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-40",
+  "level": "A1",
+  "title": "第十六課：你從哪裡來？ · 問國籍與語言",
+  "grammar": "問名字和來自哪裡，用 What is your name and where are you from?",
+  "q": "Ask a tourist's name and origin: What is your name and where are you from?",
+  "qZh": "問遊客的名字和來自哪裡：你叫什麼名字？你從哪裡來？",
+  "answer": "What is your name and where are you from?",
+  "cards": [
+   {
+    "en": "what",
+    "ipa": "",
+    "zh": "什麼"
+   },
+   {
+    "en": "name",
+    "ipa": "",
+    "zh": "名字"
+   },
+   {
+    "en": "where",
+    "ipa": "",
+    "zh": "哪裡"
+   },
+   {
+    "en": "from",
+    "ipa": "",
+    "zh": "來自"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 16: Where Are You From?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/06/02/869a701e-1242-4c34-a679-7a9454a770f1.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-41",
+  "level": "A1",
+  "title": "第十六課：你從哪裡來？ · 問國籍與語言",
+  "grammar": "問喜好用 What do you like to do in + 地點。",
+  "q": "Ask what he likes to do: What do you like to do in Washington DC?",
+  "qZh": "問他喜歡做什麼：你在華盛頓特區喜歡做什麼？",
+  "answer": "What do you like to do in Washington DC?",
+  "cards": [
+   {
+    "en": "like to do",
+    "ipa": "",
+    "zh": "喜歡做"
+   },
+   {
+    "en": "in",
+    "ipa": "",
+    "zh": "在"
+   },
+   {
+    "en": "Washington DC",
+    "ipa": "",
+    "zh": "華盛頓特區"
+   },
+   {
+    "en": "what",
+    "ipa": "",
+    "zh": "什麼"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 16: Where Are You From?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/06/02/869a701e-1242-4c34-a679-7a9454a770f1.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-42",
+  "level": "A2",
+  "title": "第十六課：你從哪裡來？ · 問國籍與語言",
+  "grammar": "問語言用 What language do they speak in + 國家，再確認 Is it ...?",
+  "q": "Ask about Iran's language: What language do they speak in Iran? Is it Persian?",
+  "qZh": "問伊朗說什麼語言：伊朗人說什麼語言？是波斯語嗎？",
+  "answer": "What language do they speak in Iran? Is it Persian?",
+  "cards": [
+   {
+    "en": "language",
+    "ipa": "",
+    "zh": "語言"
+   },
+   {
+    "en": "speak",
+    "ipa": "",
+    "zh": "說"
+   },
+   {
+    "en": "Iran",
+    "ipa": "",
+    "zh": "伊朗"
+   },
+   {
+    "en": "Persian",
+    "ipa": "",
+    "zh": "波斯語"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 16: Where Are You From?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/06/02/869a701e-1242-4c34-a679-7a9454a770f1.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-43",
+  "level": "A1",
+  "title": "第二十課：你會做什麼？ · Can 表能力",
+  "grammar": "用 Everyone has a skill 鼓勵別人，每個人都有長處。",
+  "q": "Encourage Pete: Everyone has a skill. You need to find yours.",
+  "qZh": "鼓勵皮特：每個人都有一技之長。你要找到你的。",
+  "answer": "Everyone has a skill. You need to find yours.",
+  "cards": [
+   {
+    "en": "everyone",
+    "ipa": "",
+    "zh": "每個人"
+   },
+   {
+    "en": "skill",
+    "ipa": "",
+    "zh": "技能"
+   },
+   {
+    "en": "need to",
+    "ipa": "",
+    "zh": "需要"
+   },
+   {
+    "en": "find",
+    "ipa": "",
+    "zh": "找到"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 20: What Can You Do?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/06/29/8225db0f-179b-453f-92bb-50f548175c42.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-44",
+  "level": "A2",
+  "title": "第二十課：你會做什麼？ · Can 表能力",
+  "grammar": "用 You can make money + V-ing 表達靠某技能賺錢。",
+  "q": "Tell Pete his blog can earn money: Pete, that's a lot of followers! You can make money writing!",
+  "qZh": "告訴皮特部落格能賺錢：皮特，那是好多追蹤者！你靠寫作能賺錢！",
+  "answer": "Pete, that's a lot of followers! You can make money writing!",
+  "cards": [
+   {
+    "en": "followers",
+    "ipa": "",
+    "zh": "追蹤者"
+   },
+   {
+    "en": "make money",
+    "ipa": "",
+    "zh": "賺錢"
+   },
+   {
+    "en": "writing",
+    "ipa": "",
+    "zh": "寫作"
+   },
+   {
+    "en": "lot of",
+    "ipa": "",
+    "zh": "許多"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 20: What Can You Do?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/06/29/8225db0f-179b-453f-92bb-50f548175c42.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-45",
+  "level": "A1",
+  "title": "第二十課：你會做什麼？ · Can 表能力",
+  "grammar": "用 No, I always ... when I ... 幽默說明自己不擅長的事。",
+  "q": "Say you can't drive well: No, I always fall asleep when I drive.",
+  "qZh": "說你開車不行：不，我開車時總是睡著。",
+  "answer": "No, I always fall asleep when I drive.",
+  "cards": [
+   {
+    "en": "always",
+    "ipa": "",
+    "zh": "總是"
+   },
+   {
+    "en": "fall asleep",
+    "ipa": "",
+    "zh": "睡著"
+   },
+   {
+    "en": "when",
+    "ipa": "",
+    "zh": "當……時"
+   },
+   {
+    "en": "drive",
+    "ipa": "",
+    "zh": "開車"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 20: What Can You Do?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/06/29/8225db0f-179b-453f-92bb-50f548175c42.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-46",
+  "level": "A1",
+  "title": "第二十一課：你能來派對嗎？ · 邀請與 Have to",
+  "grammar": "答應邀約用 Then I can come with you to ... on Saturday night。",
+  "q": "Accept the party invitation: Oh. Then I can come with you to the party on Saturday night.",
+  "qZh": "接受派對邀約：喔，那週六晚上我可以跟妳去派對。",
+  "answer": "Oh. Then I can come with you to the party on Saturday night.",
+  "cards": [
+   {
+    "en": "come with",
+    "ipa": "",
+    "zh": "跟……一起來"
+   },
+   {
+    "en": "party",
+    "ipa": "",
+    "zh": "派對"
+   },
+   {
+    "en": "Saturday night",
+    "ipa": "",
+    "zh": "週六晚上"
+   },
+   {
+    "en": "then",
+    "ipa": "",
+    "zh": "那麼"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 21: Can You Come to the Party?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/07/11/e0c9e4c4-584b-4bd7-a4d5-a4b1f7bdfa8f.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-47",
+  "level": "A2",
+  "title": "第二十一課：你能來派對嗎？ · 邀請與 Have to",
+  "grammar": "說明規則用 Everyone has to + 動詞，表示每個人都必須做。",
+  "q": "Explain the party rule: Everyone has to bring something or do something.",
+  "qZh": "說明派對規則：每個人都要帶東西或表演節目。",
+  "answer": "Everyone has to bring something or do something.",
+  "cards": [
+   {
+    "en": "has to",
+    "ipa": "",
+    "zh": "必須"
+   },
+   {
+    "en": "bring",
+    "ipa": "",
+    "zh": "帶來"
+   },
+   {
+    "en": "something",
+    "ipa": "",
+    "zh": "某事；某物"
+   },
+   {
+    "en": "or",
+    "ipa": "",
+    "zh": "或者"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 21: Can You Come to the Party?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/07/11/e0c9e4c4-584b-4bd7-a4d5-a4b1f7bdfa8f.mp3"
+  }
+ },
+ {
+  "id": "voa-l1-48",
+  "level": "A1",
+  "title": "第二十一課：你能來派對嗎？ · 邀請與 Have to",
+  "grammar": "主動幫忙用 Can I help?，再補一句說明自己有空。",
+  "q": "Offer to help with shopping: Can I help? I'm not busy right now.",
+  "qZh": "主動幫忙買東西：我可以幫忙嗎？我現在不忙。",
+  "answer": "Can I help? I'm not busy right now.",
+  "cards": [
+   {
+    "en": "help",
+    "ipa": "",
+    "zh": "幫忙"
+   },
+   {
+    "en": "busy",
+    "ipa": "",
+    "zh": "忙碌的"
+   },
+   {
+    "en": "right now",
+    "ipa": "",
+    "zh": "現在"
+   },
+   {
+    "en": "can",
+    "ipa": "",
+    "zh": "可以"
+   }
+  ],
+  "source": {
+   "lesson": "Lesson 21: Can You Come to the Party?",
+   "url": "https://learningenglish.voanews.com/p/5644.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/07/11/e0c9e4c4-584b-4bd7-a4d5-a4b1f7bdfa8f.mp3"
+  }
+ },
+ {
+  "answer": "Washington, D.C. has great food from all over the world.",
+  "cards": [
+   {
+    "en": "world",
+    "ipa": "",
+    "zh": "世界"
+   },
+   {
+    "en": "food",
+    "ipa": "",
+    "zh": "食物"
+   },
+   {
+    "en": "great",
+    "ipa": "",
+    "zh": "很棒的"
+   },
+   {
+    "en": "all over the world",
+    "ipa": "",
+    "zh": "全世界"
+   }
+  ],
+  "grammar": "「want + 名詞」用來表達想要的東西，例如 I want chicken。",
+  "id": "voa-l1-49",
+  "level": "A1",
+  "q": "Listen and repeat this sentence aloud.",
+  "qZh": "聽一次，然後大聲跟讀這一句。",
+  "source": {
+   "lesson": "Lesson 23: What Do You Want?",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-23-what-do-you-want/3413753.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/07/27/f5ba9389-58a1-4643-9ec4-3bbfcd8c96e6.mp3"
+  },
+  "title": "第23課：你想要什麼 · want 表「想要」"
+ },
+ {
+  "answer": "The food truck, over there, has great chicken.",
+  "cards": [
+   {
+    "en": "food truck",
+    "ipa": "",
+    "zh": "餐車"
+   },
+   {
+    "en": "over there",
+    "ipa": "",
+    "zh": "在那邊"
+   },
+   {
+    "en": "chicken",
+    "ipa": "",
+    "zh": "雞肉"
+   },
+   {
+    "en": "great",
+    "ipa": "",
+    "zh": "很棒的"
+   }
+  ],
+  "grammar": "「want + 名詞」用來表達想要的東西，例如 I want chicken。",
+  "id": "voa-l1-50",
+  "level": "A1",
+  "q": "Read this sentence aloud three times.",
+  "qZh": "把這一句大聲朗讀三遍。",
+  "source": {
+   "lesson": "Lesson 23: What Do You Want?",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-23-what-do-you-want/3413753.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/07/27/f5ba9389-58a1-4643-9ec4-3bbfcd8c96e6.mp3"
+  },
+  "title": "第23課：你想要什麼 · want 表「想要」"
+ },
+ {
+  "answer": "Where’s Anna? Is she dancing by that food truck?",
+  "cards": [
+   {
+    "en": "dance",
+    "ipa": "",
+    "zh": "跳舞"
+   },
+   {
+    "en": "by",
+    "ipa": "",
+    "zh": "在……旁邊"
+   },
+   {
+    "en": "truck",
+    "ipa": "",
+    "zh": "餐車；卡車"
+   },
+   {
+    "en": "where",
+    "ipa": "",
+    "zh": "哪裡"
+   }
+  ],
+  "grammar": "Where’s = Where is，用來問人物或東西在哪裡。",
+  "id": "voa-l1-51",
+  "level": "A1",
+  "q": "Shadow this sentence right after the audio.",
+  "qZh": "聽完音檔後，立刻影子跟讀這一句。",
+  "source": {
+   "lesson": "Lesson 23: What Do You Want?",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-23-what-do-you-want/3413753.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/07/27/f5ba9389-58a1-4643-9ec4-3bbfcd8c96e6.mp3"
+  },
+  "title": "第23課：你想要什麼 · Where is 問位置"
+ },
+ {
+  "answer": "They cooked a lot of traditional Basque food.",
+  "cards": [
+   {
+    "en": "cook - cooked",
+    "ipa": "",
+    "zh": "烹煮（原形—過去式）"
+   },
+   {
+    "en": "a lot of",
+    "ipa": "",
+    "zh": "許多"
+   },
+   {
+    "en": "traditional",
+    "ipa": "",
+    "zh": "傳統的"
+   },
+   {
+    "en": "food",
+    "ipa": "",
+    "zh": "食物"
+   }
+  ],
+  "grammar": "過去式 cooked 表示已經完成的動作。",
+  "id": "voa-l1-52",
+  "level": "A1",
+  "q": "Listen and repeat this sentence aloud.",
+  "qZh": "聽一次，然後大聲跟讀這一句。",
+  "source": {
+   "lesson": "Lesson 24: Yesterday Was Amazing!",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-24-yesterday-was-amazing/3439164.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/07/29/7202578e-98dd-4e93-8a9b-166c72f520ea.mp3"
+  },
+  "title": "第24課：昨天太精彩了 · 過去式"
+ },
+ {
+  "answer": "This is beautiful! This is traditional Basque art.",
+  "cards": [
+   {
+    "en": "beautiful",
+    "ipa": "",
+    "zh": "美麗的"
+   },
+   {
+    "en": "art",
+    "ipa": "",
+    "zh": "藝術"
+   },
+   {
+    "en": "traditional",
+    "ipa": "",
+    "zh": "傳統的"
+   },
+   {
+    "en": "this",
+    "ipa": "",
+    "zh": "這個"
+   }
+  ],
+  "grammar": "This is + 形容詞用來描述眼前的東西。",
+  "id": "voa-l1-53",
+  "level": "A1",
+  "q": "Read this sentence aloud three times.",
+  "qZh": "把這一句大聲朗讀三遍。",
+  "source": {
+   "lesson": "Lesson 24: Yesterday Was Amazing!",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-24-yesterday-was-amazing/3439164.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/07/29/7202578e-98dd-4e93-8a9b-166c72f520ea.mp3"
+  },
+  "title": "第24課：昨天太精彩了 · This is 描述"
+ },
+ {
+  "answer": "They are making a traditional Basque ship. This festival is a lot of fun!",
+  "cards": [
+   {
+    "en": "make",
+    "ipa": "",
+    "zh": "製作"
+   },
+   {
+    "en": "ship",
+    "ipa": "",
+    "zh": "船"
+   },
+   {
+    "en": "festival",
+    "ipa": "",
+    "zh": "節慶"
+   },
+   {
+    "en": "fun",
+    "ipa": "",
+    "zh": "樂趣"
+   }
+  ],
+  "grammar": "be + V-ing（are making）表示正在進行的動作。",
+  "id": "voa-l1-54",
+  "level": "A2",
+  "q": "Shadow this sentence right after the audio.",
+  "qZh": "聽完音檔後，立刻影子跟讀這一句。",
+  "source": {
+   "lesson": "Lesson 24: Yesterday Was Amazing!",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-24-yesterday-was-amazing/3439164.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/07/29/7202578e-98dd-4e93-8a9b-166c72f520ea.mp3"
+  },
+  "title": "第24課：昨天太精彩了 · 現在進行式"
+ },
+ {
+  "answer": "Ms. Weaver, Hi. I can’t come to work today.",
+  "cards": [
+   {
+    "en": "come to work",
+    "ipa": "",
+    "zh": "來上班"
+   },
+   {
+    "en": "today",
+    "ipa": "",
+    "zh": "今天"
+   },
+   {
+    "en": "can’t",
+    "ipa": "",
+    "zh": "不能"
+   },
+   {
+    "en": "hi",
+    "ipa": "",
+    "zh": "嗨"
+   }
+  ],
+  "grammar": "can’t + 原形動詞表示「不能」，常用於請假。",
+  "id": "voa-l1-55",
+  "level": "A1",
+  "q": "Listen and repeat this sentence aloud.",
+  "qZh": "聽一次，然後大聲跟讀這一句。",
+  "source": {
+   "lesson": "Lesson 27: I Can't Come In",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-27-i-cant-come-in/3457316.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/08/30/4b0918a8-33b1-4b9d-8d88-f54d8a1be9ea.mp3"
+  },
+  "title": "第27課：我今天不能上班 · can’t 表不能"
+ },
+ {
+  "answer": "Hello. This is Dr. Bennett. How can I help you?",
+  "cards": [
+   {
+    "en": "help",
+    "ipa": "",
+    "zh": "幫助"
+   },
+   {
+    "en": "doctor",
+    "ipa": "",
+    "zh": "醫生"
+   },
+   {
+    "en": "how",
+    "ipa": "",
+    "zh": "如何"
+   },
+   {
+    "en": "hello",
+    "ipa": "",
+    "zh": "哈囉"
+   }
+  ],
+  "grammar": "How can I help you? 是電話或服務時的禮貌問句。",
+  "id": "voa-l1-56",
+  "level": "A1",
+  "q": "Read this sentence aloud three times.",
+  "qZh": "把這一句大聲朗讀三遍。",
+  "source": {
+   "lesson": "Lesson 27: I Can't Come In",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-27-i-cant-come-in/3457316.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/08/30/4b0918a8-33b1-4b9d-8d88-f54d8a1be9ea.mp3"
+  },
+  "title": "第27課：我今天不能上班 · 禮貌問句"
+ },
+ {
+  "answer": "Don’t go to work for a couple of days.",
+  "cards": [
+   {
+    "en": "couple",
+    "ipa": "",
+    "zh": "幾個"
+   },
+   {
+    "en": "day",
+    "ipa": "",
+    "zh": "天"
+   },
+   {
+    "en": "work",
+    "ipa": "",
+    "zh": "工作；上班"
+   },
+   {
+    "en": "go to work",
+    "ipa": "",
+    "zh": "去上班"
+   }
+  ],
+  "grammar": "Don’t + 原形動詞構成否定祈使句，表示「不要……」。",
+  "id": "voa-l1-57",
+  "level": "A1",
+  "q": "Shadow this sentence right after the audio.",
+  "qZh": "聽完音檔後，立刻影子跟讀這一句。",
+  "source": {
+   "lesson": "Lesson 27: I Can't Come In",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-27-i-cant-come-in/3457316.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/08/30/4b0918a8-33b1-4b9d-8d88-f54d8a1be9ea.mp3"
+  },
+  "title": "第27課：我今天不能上班 · 否定祈使句"
+ },
+ {
+  "answer": "Did you pass the test the first time?",
+  "cards": [
+   {
+    "en": "pass",
+    "ipa": "",
+    "zh": "通過"
+   },
+   {
+    "en": "test",
+    "ipa": "",
+    "zh": "考試；測驗"
+   },
+   {
+    "en": "first",
+    "ipa": "",
+    "zh": "第一次"
+   },
+   {
+    "en": "time",
+    "ipa": "",
+    "zh": "次"
+   }
+  ],
+  "grammar": "Did + 主詞 + 原形動詞構成過去式疑問句。",
+  "id": "voa-l1-58",
+  "level": "A1",
+  "q": "Listen and repeat this sentence aloud.",
+  "qZh": "聽一次，然後大聲跟讀這一句。",
+  "source": {
+   "lesson": "Lesson 28: I Passed It!",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-28-i-passed-it/3487865.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/09/08/a087a1f8-4939-4f40-8612-e99605e88caf.mp3"
+  },
+  "title": "第28課：我考過了！ · 過去式疑問句"
+ },
+ {
+  "answer": "Look first! There were cars in the street.",
+  "cards": [
+   {
+    "en": "look",
+    "ipa": "",
+    "zh": "看"
+   },
+   {
+    "en": "first",
+    "ipa": "",
+    "zh": "首先"
+   },
+   {
+    "en": "car",
+    "ipa": "",
+    "zh": "汽車"
+   },
+   {
+    "en": "street",
+    "ipa": "",
+    "zh": "街道"
+   }
+  ],
+  "grammar": "There were + 複數名詞表示過去「有……」。",
+  "id": "voa-l1-59",
+  "level": "A1",
+  "q": "Read this sentence aloud three times.",
+  "qZh": "把這一句大聲朗讀三遍。",
+  "source": {
+   "lesson": "Lesson 28: I Passed It!",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-28-i-passed-it/3487865.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/09/08/a087a1f8-4939-4f40-8612-e99605e88caf.mp3"
+  },
+  "title": "第28課：我考過了！ · There were"
+ },
+ {
+  "answer": "Do you know where you want to take your first drive in Washington, D.C.?",
+  "cards": [
+   {
+    "en": "drive",
+    "ipa": "",
+    "zh": "開車"
+   },
+   {
+    "en": "first",
+    "ipa": "",
+    "zh": "首次的"
+   },
+   {
+    "en": "know",
+    "ipa": "",
+    "zh": "知道"
+   },
+   {
+    "en": "where",
+    "ipa": "",
+    "zh": "哪裡"
+   }
+  ],
+  "grammar": "where 引導名詞子句，放在 know 後面表示「知道去哪裡」。",
+  "id": "voa-l1-60",
+  "level": "A2",
+  "q": "Shadow this sentence right after the audio.",
+  "qZh": "聽完音檔後，立刻影子跟讀這一句。",
+  "source": {
+   "lesson": "Lesson 28: I Passed It!",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-28-i-passed-it/3487865.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/09/08/a087a1f8-4939-4f40-8612-e99605e88caf.mp3"
+  },
+  "title": "第28課：我考過了！ · where 子句"
+ },
+ {
+  "answer": "How much do I need for five people?",
+  "cards": [
+   {
+    "en": "how much",
+    "ipa": "",
+    "zh": "多少"
+   },
+   {
+    "en": "need",
+    "ipa": "",
+    "zh": "需要"
+   },
+   {
+    "en": "five",
+    "ipa": "",
+    "zh": "五"
+   },
+   {
+    "en": "people",
+    "ipa": "",
+    "zh": "人們"
+   }
+  ],
+  "grammar": "How much + 數量用來詢問需要多少份量。",
+  "id": "voa-l1-61",
+  "level": "A1",
+  "q": "Listen and repeat this sentence aloud.",
+  "qZh": "聽一次，然後大聲跟讀這一句。",
+  "source": {
+   "lesson": "Lesson 30: Rolling on the River",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-30-rolling-on-the-river/3522798.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/09/27/a8dbb32b-ada5-4441-a2d1-340924241a4b.mp3"
+  },
+  "title": "第30課：河上行 · How much 問數量"
+ },
+ {
+  "answer": "Then I want a dozen large crabs, please!",
+  "cards": [
+   {
+    "en": "dozen",
+    "ipa": "",
+    "zh": "一打（十二個）"
+   },
+   {
+    "en": "large",
+    "ipa": "",
+    "zh": "大的"
+   },
+   {
+    "en": "crab",
+    "ipa": "",
+    "zh": "螃蟹"
+   },
+   {
+    "en": "please",
+    "ipa": "",
+    "zh": "請"
+   }
+  ],
+  "grammar": "a dozen + 複數名詞表示「一打……」。",
+  "id": "voa-l1-62",
+  "level": "A1",
+  "q": "Read this sentence aloud three times.",
+  "qZh": "把這一句大聲朗讀三遍。",
+  "source": {
+   "lesson": "Lesson 30: Rolling on the River",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-30-rolling-on-the-river/3522798.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/09/27/a8dbb32b-ada5-4441-a2d1-340924241a4b.mp3"
+  },
+  "title": "第30課：河上行 · 數量單位"
+ },
+ {
+  "answer": "I work here. You know, it’s not easy to be a writer.",
+  "cards": [
+   {
+    "en": "work",
+    "ipa": "",
+    "zh": "工作"
+   },
+   {
+    "en": "easy",
+    "ipa": "",
+    "zh": "容易的"
+   },
+   {
+    "en": "writer",
+    "ipa": "",
+    "zh": "作家"
+   },
+   {
+    "en": "know",
+    "ipa": "",
+    "zh": "知道"
+   }
+  ],
+  "grammar": "It’s + 形容詞 + to V 表示「做某事很……」。",
+  "id": "voa-l1-63",
+  "level": "A2",
+  "q": "Shadow this sentence right after the audio.",
+  "qZh": "聽完音檔後，立刻影子跟讀這一句。",
+  "source": {
+   "lesson": "Lesson 30: Rolling on the River",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-30-rolling-on-the-river/3522798.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/09/27/a8dbb32b-ada5-4441-a2d1-340924241a4b.mp3"
+  },
+  "title": "第30課：河上行 · It’s + 形容詞"
+ },
+ {
+  "answer": "I am taking a bus to a Nationals baseball game!",
+  "cards": [
+   {
+    "en": "take a bus",
+    "ipa": "",
+    "zh": "搭公車"
+   },
+   {
+    "en": "baseball",
+    "ipa": "",
+    "zh": "棒球"
+   },
+   {
+    "en": "game",
+    "ipa": "",
+    "zh": "比賽"
+   },
+   {
+    "en": "Nationals",
+    "ipa": "",
+    "zh": "國民隊（棒球隊名）"
+   }
+  ],
+  "grammar": "be + V-ing（am taking）表示正在進行的動作。",
+  "id": "voa-l1-64",
+  "level": "A1",
+  "q": "Listen and repeat this sentence aloud.",
+  "qZh": "聽一次，然後大聲跟讀這一句。",
+  "source": {
+   "lesson": "Lesson 31: Take Me Out to the Ball Game",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-31-take-me-out-to-the-ball-game/3535235.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/10/06/81890cf1-5a16-4426-87db-fdb240c750cc.mp3"
+  },
+  "title": "第31課：帶我去看棒球賽 · 現在進行式"
+ },
+ {
+  "answer": "In fact, I wanted to be a baseball player.",
+  "cards": [
+   {
+    "en": "in fact",
+    "ipa": "",
+    "zh": "事實上"
+   },
+   {
+    "en": "want",
+    "ipa": "",
+    "zh": "想要"
+   },
+   {
+    "en": "player",
+    "ipa": "",
+    "zh": "球員"
+   },
+   {
+    "en": "baseball",
+    "ipa": "",
+    "zh": "棒球"
+   }
+  ],
+  "grammar": "過去式 wanted 表示以前的願望。",
+  "id": "voa-l1-65",
+  "level": "A1",
+  "q": "Read this sentence aloud three times.",
+  "qZh": "把這一句大聲朗讀三遍。",
+  "source": {
+   "lesson": "Lesson 31: Take Me Out to the Ball Game",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-31-take-me-out-to-the-ball-game/3535235.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/10/06/81890cf1-5a16-4426-87db-fdb240c750cc.mp3"
+  },
+  "title": "第31課：帶我去看棒球賽 · 過去式"
+ },
+ {
+  "answer": "Oh, Ashley. Ashley, Ashley, Ashley. A car is faster than your bicycle.",
+  "cards": [
+   {
+    "en": "faster",
+    "ipa": "",
+    "zh": "更快的"
+   },
+   {
+    "en": "than",
+    "ipa": "",
+    "zh": "比"
+   },
+   {
+    "en": "car",
+    "ipa": "",
+    "zh": "汽車"
+   },
+   {
+    "en": "bicycle",
+    "ipa": "",
+    "zh": "腳踏車"
+   }
+  ],
+  "grammar": "比較級 faster than 表示「比……更快」。",
+  "id": "voa-l1-66",
+  "level": "A2",
+  "q": "Shadow this sentence right after the audio.",
+  "qZh": "聽完音檔後，立刻影子跟讀這一句。",
+  "source": {
+   "lesson": "Lesson 31: Take Me Out to the Ball Game",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-31-take-me-out-to-the-ball-game/3535235.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/10/06/81890cf1-5a16-4426-87db-fdb240c750cc.mp3"
+  },
+  "title": "第31課：帶我去看棒球賽 · 比較級"
+ },
+ {
+  "answer": "Hi, Anna. Do you have the shopping list?",
+  "cards": [
+   {
+    "en": "shopping list",
+    "ipa": "",
+    "zh": "購物清單"
+   },
+   {
+    "en": "have",
+    "ipa": "",
+    "zh": "有"
+   },
+   {
+    "en": "hi",
+    "ipa": "",
+    "zh": "嗨"
+   },
+   {
+    "en": "list",
+    "ipa": "",
+    "zh": "清單"
+   }
+  ],
+  "grammar": "Do you have + 名詞用來確認對方有沒有某物。",
+  "id": "voa-l1-67",
+  "level": "A1",
+  "q": "Listen and repeat this sentence aloud.",
+  "qZh": "聽一次，然後大聲跟讀這一句。",
+  "source": {
+   "lesson": "Lesson 35: Let’s Make Dinner!",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-35-lets-make-dinner/3571922.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/11/02/0c67a47c-b66d-4d36-85f5-41dca2d12bde.mp3"
+  },
+  "title": "第35課：來做晚餐吧！ · Do you have"
+ },
+ {
+  "answer": "And do not spend too much time shopping.",
+  "cards": [
+   {
+    "en": "spend",
+    "ipa": "",
+    "zh": "花費"
+   },
+   {
+    "en": "time",
+    "ipa": "",
+    "zh": "時間"
+   },
+   {
+    "en": "too much",
+    "ipa": "",
+    "zh": "太多"
+   },
+   {
+    "en": "shopping",
+    "ipa": "",
+    "zh": "購物"
+   }
+  ],
+  "grammar": "do not + 原形動詞構成否定祈使句，表示叮嚀。",
+  "id": "voa-l1-68",
+  "level": "A1",
+  "q": "Read this sentence aloud three times.",
+  "qZh": "把這一句大聲朗讀三遍。",
+  "source": {
+   "lesson": "Lesson 35: Let’s Make Dinner!",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-35-lets-make-dinner/3571922.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/11/02/0c67a47c-b66d-4d36-85f5-41dca2d12bde.mp3"
+  },
+  "title": "第35課：來做晚餐吧！ · 否定祈使句"
+ },
+ {
+  "answer": "Marsha, there was no shopping list - on the refrigerator - for dinner!",
+  "cards": [
+   {
+    "en": "refrigerator",
+    "ipa": "",
+    "zh": "冰箱"
+   },
+   {
+    "en": "dinner",
+    "ipa": "",
+    "zh": "晚餐"
+   },
+   {
+    "en": "shopping list",
+    "ipa": "",
+    "zh": "購物清單"
+   },
+   {
+    "en": "there was",
+    "ipa": "",
+    "zh": "曾經有（過去式）"
+   }
+  ],
+  "grammar": "there was + 單數名詞表示過去「有……」。",
+  "id": "voa-l1-69",
+  "level": "A2",
+  "q": "Shadow this sentence right after the audio.",
+  "qZh": "聽完音檔後，立刻影子跟讀這一句。",
+  "source": {
+   "lesson": "Lesson 35: Let’s Make Dinner!",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-35-lets-make-dinner/3571922.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2016/11/02/0c67a47c-b66d-4d36-85f5-41dca2d12bde.mp3"
+  },
+  "title": "第35課：來做晚餐吧！ · there was"
+ },
+ {
+  "answer": "I want to see an interesting museum but I don’t know which one.",
+  "cards": [
+   {
+    "en": "museum",
+    "ipa": "",
+    "zh": "博物館"
+   },
+   {
+    "en": "interesting",
+    "ipa": "",
+    "zh": "有趣的"
+   },
+   {
+    "en": "which",
+    "ipa": "",
+    "zh": "哪一個"
+   },
+   {
+    "en": "know",
+    "ipa": "",
+    "zh": "知道"
+   }
+  ],
+  "grammar": "but 連接兩個相反的想法，前後各一個完整句子。",
+  "id": "voa-l1-70",
+  "level": "A2",
+  "q": "Listen and repeat this sentence aloud.",
+  "qZh": "聽一次，然後大聲跟讀這一句。",
+  "source": {
+   "lesson": "Lesson 48: Have You Ever ...?",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-48-have-you-ever/3753664.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2017/03/09/d11896f1-be6c-47bf-acbc-968ebda02e96.mp3"
+  },
+  "title": "第48課：你曾經……嗎？ · but 連接句"
+ },
+ {
+  "answer": "I have never seen a garden of sculptures!",
+  "cards": [
+   {
+    "en": "never",
+    "ipa": "",
+    "zh": "從未"
+   },
+   {
+    "en": "garden",
+    "ipa": "",
+    "zh": "花園"
+   },
+   {
+    "en": "sculpture",
+    "ipa": "",
+    "zh": "雕塑"
+   },
+   {
+    "en": "see - seen",
+    "ipa": "",
+    "zh": "看見（原形—過去分詞）"
+   }
+  ],
+  "grammar": "have + never + 過去分詞表示「從未……過」。",
+  "id": "voa-l1-71",
+  "level": "A2",
+  "q": "Read this sentence aloud three times.",
+  "qZh": "把這一句大聲朗讀三遍。",
+  "source": {
+   "lesson": "Lesson 48: Have You Ever ...?",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-48-have-you-ever/3753664.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2017/03/09/d11896f1-be6c-47bf-acbc-968ebda02e96.mp3"
+  },
+  "title": "第48課：你曾經……嗎？ · 現在完成式"
+ },
+ {
+  "answer": "Well, I have lived here for over a year.",
+  "cards": [
+   {
+    "en": "live",
+    "ipa": "",
+    "zh": "居住"
+   },
+   {
+    "en": "over",
+    "ipa": "",
+    "zh": "超過"
+   },
+   {
+    "en": "year",
+    "ipa": "",
+    "zh": "年"
+   },
+   {
+    "en": "here",
+    "ipa": "",
+    "zh": "這裡"
+   }
+  ],
+  "grammar": "have + 過去分詞（have lived）談從過去延續到現在的經驗。",
+  "id": "voa-l1-72",
+  "level": "A2",
+  "q": "Shadow this sentence right after the audio.",
+  "qZh": "聽完音檔後，立刻影子跟讀這一句。",
+  "source": {
+   "lesson": "Lesson 48: Have You Ever ...?",
+   "url": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-48-have-you-ever/3753664.html",
+   "audio": "https://voa-audio.voanews.eu/vle/2017/03/09/d11896f1-be6c-47bf-acbc-968ebda02e96.mp3"
+  },
+  "title": "第48課：你曾經……嗎？ · 現在完成式"
+ }
+]
